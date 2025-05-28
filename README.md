@@ -237,7 +237,7 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 **Hamza Braik**
 - GitHub: [@HamzaBraik01](https://github.com/HamzaBraik01)
-- LinkedIn: [Votre LinkedIn](www.linkedin.com/in/hamza-braik-a221b326a)
+- LinkedIn: [HamzaBraik](www.linkedin.com/in/hamza-braik-a221b326a)
 - Email: hamzabraik02@gmail.com
 
 
