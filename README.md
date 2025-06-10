@@ -18,7 +18,6 @@ Un tableau de bord moderne permettant d'explorer une base de données de plus de
 - 📊 **6 Visualisations Interactives** avec Plotly.js
 - 🎨 **Design Moderne** avec Glass Morphism
 - 📱 **Interface Responsive** (Desktop, Tablet, Mobile)
-- 🔍 **Recherche en Temps Réel** (interface préparée)
 - 📈 **Statistiques Détaillées** du marché pharmaceutique
 - ⚡ **Performance Optimisée** avec mise en cache
 
@@ -130,7 +129,6 @@ Le dashboard affiche automatiquement :
 ```
 / ...................... Dashboard principal
 /data .................. Vue tabulaire des données
-/api/search ............ Recherche de médicaments
 ```
 
 ## 🔌 API Endpoints
@@ -144,7 +142,6 @@ Le dashboard affiche automatiquement :
 | `/api/formes-medicaments` | Formes pharmaceutiques | GET |
 | `/api/prix-comparaison` | Comparaison prix public/hospitalier | GET |
 | `/api/substances-psychoactives` | Substances contrôlées | GET |
-| `/api/search?q={query}` | Recherche médicaments | GET |
 | `/data` | Vue tabulaire complète | GET |
 
 ### Exemple d'utilisation API
@@ -269,7 +266,6 @@ Utilisez les [Issues GitHub](https://github.com/HamzaBraik01/Dashboard_M-dicamen
 
 ## 🗺️ Roadmap
 
-- [ ] 🔍 **Recherche avancée** avec filtres multiples
 - [ ] 📤 **Export des données** (PDF, Excel, CSV)
 - [ ] 🔄 **Comparateur** de médicaments
 - [ ] 📊 **Historique des prix** et tendances
