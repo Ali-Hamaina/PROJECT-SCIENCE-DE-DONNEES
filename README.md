@@ -66,6 +66,55 @@ python app.py
 
 Ouvrez votre navigateur et accédez à : **http://localhost:5000**
 
+## ▶️ Comment exécuter ce projet
+
+### 1. Cloner le dépôt
+
+```bash
+git clone https://github.com/HamzaBraik01/Dashboard_M-dicaments.git
+cd Dashboard_M-dicaments
+```
+
+### 2. Créer un environnement virtuel (recommandé)
+
+```bash
+python -m venv venv
+venv\Scripts\activate  # Sur Windows
+# ou
+source venv/bin/activate  # Sur Linux/Mac
+```
+
+### 3. Installer les dépendances
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. (Optionnel) Générer le dataset
+
+Le fichier `medicament_ma_top5000.csv` est requis. Si vous souhaitez le régénérer :
+
+```bash
+python scraper.py
+```
+
+### 5. Lancer l'application Flask
+
+```bash
+python app.py
+```
+
+### 6. Accéder au dashboard
+
+Ouvrez votre navigateur à l'adresse : [http://localhost:5000](http://localhost:5000)
+
+---
+
+**Remarque :**
+- Si vous modifiez le code ou le dataset, relancez l'application.
+- Pour toute erreur liée au port déjà utilisé, changez le port dans `app.py` : `app.run(debug=True, port=5001)`
+- Pour plus de détails sur le scraping, consultez `scraper.py`.
+
 ## 🎮 Utilisation
 
 ### Dashboard Principal
