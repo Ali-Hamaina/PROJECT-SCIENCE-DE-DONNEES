@@ -21,9 +21,6 @@ Un tableau de bord moderne permettant d'explorer une base de données de plus de
 - 📈 **Statistiques Détaillées** du marché pharmaceutique
 - ⚡ **Performance Optimisée** avec mise en cache
 
-## 🚀 Démo en Direct
-
-🌐 **[Voir la Démo](https://votre-demo-url.com)** *(Remplacez par votre URL de déploiement)*
 
 ## 📋 Table des Matières
 
@@ -278,12 +275,7 @@ Utilisez les [Issues GitHub](https://github.com/HamzaBraik01/Dashboard_M-dicamen
 
 Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 👨‍💻 Auteur
 
-**Hamza Braik**
-- GitHub: [@HamzaBraik01](https://github.com/HamzaBraik01)
-- LinkedIn: [HamzaBraik](www.linkedin.com/in/hamza-braik-a221b326a)
-- Email: hamzabraik02@gmail.com
 
 
 ---
